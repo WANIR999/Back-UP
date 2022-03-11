@@ -1,0 +1,147 @@
+
+.linear-gradient {
+    background: linear-gradient(blue, rgb(215, 173, 243));
+  }
+  .border{
+      width: 50%;
+      height: 50%;
+     
+      border: none;
+      padding-left: 300px;
+      padding-top: 400px;
+      padding-bottom: 10px;
+      padding-right: 10px;
+   
+      
+     
+  }
+  header {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color:white;
+    color: white;
+    padding-bottom: 10px;
+  
+  }
+  footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: white;
+  
+  }
+div table label{
+    size: 20px;
+    color: rgb(145, 56, 56);
+}
+body {
+    background-image:url("pic.png" ) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Tahoma, sans-serif;
+    
+  }
+  
+
+  body section{
+      padding-left: 25%;
+      padding-top: 40%;
+
+  }
+
+  header ul{
+      list-style-type: none;
+      display: flex;
+      font-family: Tahoma, sans-serif;
+    
+      
+  }
+  body h1 {
+      color: rgb(253, 253, 253);
+     
+  }
+  header a {
+      text-decoration: none;
+      margin: 20px;
+      color: rgb(3, 3, 3);
+     
+       
+  }
+   header ul {
+    font-family: Tahoma, sans-serif;
+    size: 100%;
+    
+
+
+  }
+  header ul form button[type=button],input[type=text]{
+   display: inline;
+   margin: 10px;
+  }
+  body label{
+      color: white;
+      font-size: 20px;
+  }
+  header ul {
+    padding-left: 2px;
+   }
+   footer ul {
+display: flex;
+
+   }
+   input[type=text], select, input[type=password],input[type=number], input[type=email] {
+  
+    padding: 12px 20px;
+    display: flex;
+    border:  solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+
+  button[type=button] {
+   
+    background-color: #8bc6e9;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+    
+  }
+  .ser{
+      display: flex;
+      padding-left: 900px;
+
+  }
+  .borderlogin{
+    width: 50%;
+    height: 50%;
+    margin: 5px;
+    border: none;
+    padding-left: 25%;
+    padding-top: 15%;
+    padding-bottom: 10px;
+    padding-right: 10px;
+ 
+   
+}
+div p {
+    
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
